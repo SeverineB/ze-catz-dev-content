@@ -1,7 +1,8 @@
 %{
+    title: "Et c'est un 2ème post",
     published: true,
-    thumbnail: "/static/images/van_gogh_bedroom.jpg"
+    date: "2022-04-16",
 }
 ---
 
-This is a post in the root of the taxonomy! Go to a post with [a live link](/blog/releases/elixir-v1.5).
+Test d'un 2ème post pour voir si ça fonctionne.
