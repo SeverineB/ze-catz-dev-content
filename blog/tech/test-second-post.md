@@ -1,5 +1,5 @@
 %{
-    title: "Et c'est un 2ème post",
+    title: "C'est le 2ème post",
     published: true,
     date: "2022-04-17",
 }
